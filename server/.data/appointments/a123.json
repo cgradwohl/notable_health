@@ -1,5 +1,6 @@
 {
     "patientName": "Lana Kane",
     "time": "2019-02-03 09:30:00",
-    "type": "New Patient" 
+    "type": "New Patient",
+    "id": "a123"
 }
