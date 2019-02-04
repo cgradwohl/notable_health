@@ -1,0 +1,7 @@
+{
+    "id": "12346",
+    "firstname": "Algernop",
+    "lastname": "Krieger",
+    "email": "krieger@notablehealth.com",
+    "appointments": ["a120", "a121", "a122", "a123", "a124"]
+}
