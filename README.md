@@ -26,7 +26,8 @@ two presentational components.
 3. `cd npx nodemon index.js`
 
 I build the server using vanilla node.js and used 'fs' module to write/read to
-files to mimic a db. 
+files to mimic a db. This was taken from another server file I had from one of
+my side projects.
 
 I used fs.readFile wrapped in a promise to ensure async
 for performance.

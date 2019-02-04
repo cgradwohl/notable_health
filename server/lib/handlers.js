@@ -4,8 +4,6 @@
 
 // Dependencies 
 const _data = require('./data');
-const helpers = require('./helpers');
-const config = require('./config');
 
 // Handlers container
 const handlers = {};
